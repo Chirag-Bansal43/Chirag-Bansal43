@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Chirag-Bansal43/Chirag-Bansal43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💫 About Me:
+##💫 About Me:
 
 I am an Electronics and Communication Engineering (ECE) student at NIT Silchar with a strong focus on building robust applications and deploying intelligent systems. From optimizing C++ algorithms to deploying end-to-end ML predictive dashboards to the cloud, I love taking absolute ownership of features.
 
