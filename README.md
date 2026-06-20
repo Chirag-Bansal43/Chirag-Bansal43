@@ -72,8 +72,3 @@ I am an Electronics and Communication Engineering (ECE) student at NIT Silchar w
 
 ---
 
-### 🏆 GitHub Trophies:
-
-### 🏆 GitHub Trophies:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Chirag-Bansal43&theme=tokyonight&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
