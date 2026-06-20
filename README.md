@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💫 About Me:
+
+I am an Electronics and Communication Engineering (ECE) student at NIT Silchar with a strong focus on building robust applications and deploying intelligent systems. From optimizing C++ algorithms to deploying end-to-end ML predictive dashboards to the cloud, I love taking absolute ownership of features.
+
+🔭 I’m currently working on End-to-End ML Pipelines and Cloud Deployments
+
+🌱 I’m currently learning Generative AI, LLMs, and Advanced Regression Optimization
+
+💡 Achievements: LeetCode 50 Days Problem Solving Badge | 7th in Robotron (Technoesis)
+
+💬 Ask me about C++, Python, Data Structures & Algorithms, and Predictive Modeling
+
+📫 How to reach me: bansalc12316@gmail.com
+
+🌐 Socials:
+
+💻 Tech Stack:
+
+Languages & Fundamentals:   
+
+Machine Learning & Data Science:    
+
+Web & Databases:    
+
+Hardware & Tools:  
+
+📊 GitHub Stats:
+
+🏆 GitHub Trophies:
